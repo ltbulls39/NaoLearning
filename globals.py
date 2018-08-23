@@ -1,0 +1,8 @@
+SPEECH = "ALTextToSpeech"
+POSTURE = "ALRobotPosture"
+RECORD = "ALAudioDevice"
+FILES = "ALFileManager"
+FRAME = "ALFrameManager"
+MOTION = "ALMotion"
+AUDIO = "ALAudioPlayer"
+PHOTO = "ALPhotoCapture"
